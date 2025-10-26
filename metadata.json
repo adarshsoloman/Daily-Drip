@@ -1,0 +1,7 @@
+{
+  "name": "Daily Drip",
+  "description": "Your daily cup of AI-powered news, summarized and served fresh. This app uses the Gemini API to provide daily news summaries, text-to-speech, image analysis, and a versatile chatbot with features like search grounding and complex reasoning.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
